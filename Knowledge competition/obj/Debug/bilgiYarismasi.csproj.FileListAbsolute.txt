@@ -1,0 +1,21 @@
+C:\Users\hy078\OneDrive\Masaüstü\Hasan kodlama\bilgiYarismasi\obj\Debug\bilgiYarismasi.csproj.AssemblyReference.cache
+C:\Users\hy078\OneDrive\Masaüstü\Hasan kodlama\bilgiYarismasi\obj\Debug\bilgiYarismasi.csproj.CoreCompileInputs.cache
+C:\Users\hy078\OneDrive\Masaüstü\Hasan kodlama\bilgiYarismasi\bin\Debug\bilgiYarismasi.exe.config
+C:\Users\hy078\OneDrive\Masaüstü\Hasan kodlama\bilgiYarismasi\bin\Debug\bilgiYarismasi.exe
+C:\Users\hy078\OneDrive\Masaüstü\Hasan kodlama\bilgiYarismasi\bin\Debug\bilgiYarismasi.pdb
+C:\Users\hy078\OneDrive\Masaüstü\Hasan kodlama\bilgiYarismasi\obj\Debug\bilgiYarismasi.exe
+C:\Users\hy078\OneDrive\Masaüstü\Hasan kodlama\bilgiYarismasi\obj\Debug\bilgiYarismasi.pdb
+C:\Users\hy078\OneDrive\Masaüstü\C# Projeler\bilgiYarismasi\bin\Debug\bilgiYarismasi.exe.config
+C:\Users\hy078\OneDrive\Masaüstü\C# Projeler\bilgiYarismasi\bin\Debug\bilgiYarismasi.exe
+C:\Users\hy078\OneDrive\Masaüstü\C# Projeler\bilgiYarismasi\bin\Debug\bilgiYarismasi.pdb
+C:\Users\hy078\OneDrive\Masaüstü\C# Projeler\bilgiYarismasi\obj\Debug\bilgiYarismasi.csproj.AssemblyReference.cache
+C:\Users\hy078\OneDrive\Masaüstü\C# Projeler\bilgiYarismasi\obj\Debug\bilgiYarismasi.csproj.CoreCompileInputs.cache
+C:\Users\hy078\OneDrive\Masaüstü\C# Projeler\bilgiYarismasi\obj\Debug\bilgiYarismasi.exe
+C:\Users\hy078\OneDrive\Masaüstü\C# Projeler\bilgiYarismasi\obj\Debug\bilgiYarismasi.pdb
+C:\Users\hy078\OneDrive\Masaüstü\C# Projeler\Knowledge competition\bin\Debug\bilgiYarismasi.exe.config
+C:\Users\hy078\OneDrive\Masaüstü\C# Projeler\Knowledge competition\bin\Debug\bilgiYarismasi.exe
+C:\Users\hy078\OneDrive\Masaüstü\C# Projeler\Knowledge competition\bin\Debug\bilgiYarismasi.pdb
+C:\Users\hy078\OneDrive\Masaüstü\C# Projeler\Knowledge competition\obj\Debug\bilgiYarismasi.csproj.AssemblyReference.cache
+C:\Users\hy078\OneDrive\Masaüstü\C# Projeler\Knowledge competition\obj\Debug\bilgiYarismasi.csproj.CoreCompileInputs.cache
+C:\Users\hy078\OneDrive\Masaüstü\C# Projeler\Knowledge competition\obj\Debug\bilgiYarismasi.exe
+C:\Users\hy078\OneDrive\Masaüstü\C# Projeler\Knowledge competition\obj\Debug\bilgiYarismasi.pdb
